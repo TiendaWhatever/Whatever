@@ -1,3 +1,64 @@
 nav {
-    margin: 15px;
+    margin-left: 10px;
+    float:top;
+    padding: px;
+    font-size: 20px;
 }
+nav a{text-decoration: none;
+    float: top;
+    align-items: center;
+}
+header{
+    background-color: rgb(248, 240, 254);
+    padding: 16px;px;
+    font
+}
+body{
+    margin-left: px;
+    margin-right: px;
+}
+
+.cari { float: left;
+    width: 400px;
+    height: px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    margin: 0;
+    
+}
+
+.dere{
+
+}
+.cab {
+    float: right;
+    padding-right: 1100PX;
+    padding-top: 15PX;
+}
+.p1 {
+    float: left;
+    padding-top: 10px;
+    width: 400px;
+    text-align: justify;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+div{
+}
+img{
+    margin-top: PX;
+background-color: ;
+}
+footer{
+    padding-top: 20px;
+    width:;
+    height: 30px;
+    background-color:rgb(248, 240, 254) ;
+clear: both;
+    text-align: bottom;
+}
+}
+section{padding-left: 60px;
+    width:;
+    text-align: left;}
